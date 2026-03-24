@@ -1,0 +1,22 @@
+01 - Introduction
+	(1280, 720) | 01 -Introduction to ESP32.mp4
+	(1280, 720) | 02 -Introduction to Wokwi.mp4
+02 - Basics of GPIO and Digital IO
+	(1280, 720) | 01 -Led Blinking tutorial.mp4
+	(1280, 720) | 02 -Blinking an LED.mp4
+	(1280, 720) | 03 -Reading button states (pull up and pull down concepts).mp4
+	(1280, 720) | 04 -PWM concept.mp4
+	(1280, 720) | 05 -Controlling brightness of LED and PWM.mp4
+	(1280, 720) | 06 -Reading analog values using ADC.mp4
+	(1280, 720) | 07 -LED dimmer using a potentiometer (Project 1).mp4
+03 - Working with sensors and actuators
+	(1280, 720) | 01 -Reading temperature and humidity (DHT22).mp4
+	(1280, 720) | 02 -Distance measurement using ultrasonic sensor (HC-SR04).mp4
+	(1280, 720) | 03 -Servo motor control.mp4
+	(1280, 720) | 04 -Stepper motor with A4988 driver.mp4
+04 - Communication Protocols
+	(1280, 720) | 01 -Connecting an OLED display (I2C).mp4
+	(1280, 720) | 02 -3.Hands-on Project Weather display using an OLED and DHT sensor.mp4
+	(1280, 720) | 03 -Sending and receiving serial data.mp4
+05 - Project 2 (Stepper motor speed controller)
+	(1280, 720) | 01 -Wokwi Project 2.mp4
