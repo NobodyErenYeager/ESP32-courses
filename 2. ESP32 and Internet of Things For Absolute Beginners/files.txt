@@ -1,0 +1,37 @@
+01 - Introduction to ESP32
+	(1280, 720) | 01 Course Introduction and Agenda.mp4
+	(1280, 720) | 03 Getting Started with ESP32.mp4
+	(1280, 720) | 04 Getting to Know about ESP32 Board.mp4
+	(1280, 720) | 05 Things Needed for This Course.mp4
+	(1280, 720) | 07 Getting Started with ESP32 inside Arduino.mp4
+02 - Input  Output Interfaces with ESP32
+	(1280, 720) | 01 Serial Communication Basics on ESP32.mp4
+	(1280, 720) | 02 Serial Data Print using ESP32.mp4
+	(1280, 720) | 03 Serial Data Read using ESP32.mp4
+	(1280, 720) | 04 Digital Outputs with ESP32.mp4
+	(1280, 720) | 05 Accepting Logic Inputs, Pull-up and Pull-down concepts.mp4
+	(1280, 720) | 06 Read Digital Inputs on ESP32.mp4
+	(1280, 720) | 07 Practice Tasks with Digital Input on ESP32.mp4
+	(1280, 720) | 08 Switching Circuit - DC Load Switching.mp4
+	(1280, 720) | 09 Relay Switching Circuit interfacing with ESP32.mp4
+	(1280, 720) | 10 Relay Switching Circuit with ESP32 - 2.mp4
+	(1280, 720) | 11 Reading Capacitive Touch Inputs on ESP32.mp4
+03 - Sensor and Network Interfacing
+	(1280, 720) | 01 DHT22 Sensor Interfacing with ESP32.mp4
+	(1280, 720) | 02 ESP32 Wifi Based Device Control.mp4
+	(1280, 720) | 03 ESP32 Weather Monitoring over Wifi (LAN).mp4
+	(1280, 720) | 04 ESP32 Weather Monitoring over Wifi (LAN) -- Code Explained.mp4
+04 - Internet of Things
+	(1280, 720) | 01 What is Internet of things.mp4
+	(1280, 720) | 02 IoT Protocols and thingspeak.mp4
+	(1280, 720) | 03 Sending Values to Thingspeak from ESP32.mp4
+	(1280, 720) | 04 Data Visualizations in Thingspeak.mp4
+	(1280, 720) | 05 Analytics in Thingspeak.mp4
+	(1280, 720) | 06 What is MQTT Protocol.mp4
+	(1280, 720) | 07 Adafruit IOT Project - Part 1.mp4
+	(1280, 720) | 08 Adafruit IOT Project - Part 2.mp4
+	(1280, 720) | 09 Adafruit IOT Project - Part 3.mp4
+	(1280, 720) | 10 Adafruit IOT Project - Part 4.mp4
+	(1280, 720) | 11 Alexa Based Lamp Control.mp4
+05 - Conclusion
+	(1280, 720) | 01 Concluding Remarks.mp4
