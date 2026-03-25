@@ -1,0 +1,74 @@
+01. Introduction
+	(1280, 720) | 01. Detailed Course Introduction.mp4
+	(1280, 720) | 02. Hardware & Software Requirements.mp4
+	(1280, 720) | 03. Course Structure.mp4
+02. Espressif Hardware ESP32 DevKits
+	(1280, 720) | 01. ESP32 DevKits.mp4
+03. Development Environment Setup, and ESP-IDF Build System & CMake Overview
+	(1280, 720) | 01. Eclipse (Espressif IDE) Installation.mp4
+	(1280, 720) | 02. ESP-IDF Build System & CMake Overview.mp4
+	(1280, 720) | 03. Eclipse Project Template Setup.mp4
+04. Supplemental Lessons
+	(1280, 720) | 01. ESP-IDF Example Projects.mp4
+	(1280, 720) | 02. ESP-IDF FreeRTOS.mp4
+	(1280, 720) | 03. ESP-IDF Error Handling.mp4
+	(1280, 720) | 04. Embedded C Coding Style.mp4
+05. Components & Sensors Library  (Optional)
+	(1280, 720) | 01. Components & Sensors Library Overview.mp4
+	(1280, 720) | 02. Components & Sensors Library Integration and BME 680 Example.mp4
+06. Course Source Code
+	(1280, 720) | 01. Git Repository.mp4
+07. RGB Application Status LED
+	(1280, 720) | 01. RGB LED Implementation Overview.mp4
+	(1280, 720) | 02. RGB LED Programming.mp4
+08. WiFi Application
+	(1280, 720) | 01. WiFi Implementation Overview.mp4
+	(1280, 720) | 02. WiFi Application Programming Part I.mp4
+	(1280, 720) | 03. WiFi Application Programming Part II.mp4
+	(1280, 720) | 04. WiFi Application Programming Part III.mp4
+	(1280, 720) | 05. WiFi Application Testing.mp4
+09. HTTP Server
+	(1280, 720) | 01. HTTP Server Implementation Overview.mp4
+	(1280, 720) | 03. HTTP Server Programming Part I.mp4
+	(1280, 720) | 04. HTTP Server Programming Part II.mp4
+	(1280, 720) | 05. HTTP Server Programming Part III.mp4
+	(1280, 720) | 06. HTTP Server Programming Part IV.mp4
+10. OTA Firmware Update
+	(1280, 720) | 01. OTA Firmware Update Implementation Overview.mp4
+	(1280, 720) | 02. OTA Firmware Update Programming Part I.mp4
+	(1280, 720) | 03. OTA Firmware Update Programming Part II.mp4
+	(1280, 720) | 04. OTA Firmware Update Testing.mp4
+11. DHT22 Sensor
+	(1280, 720) | 01. DHT22 Sensor Implementation Overview.mp4
+	(1280, 720) | 02. DHT22 Sensor Programming Part I.mp4
+	(1280, 720) | 03. DHT22 Sensor Programming Part II.mp4
+12. WiFi Connect Implementation
+	(1280, 720) | 01. WiFi Connect Implementation Overview.mp4
+	(1280, 720) | 02. WiFi Connect Programming Part I.mp4
+	(1280, 720) | 03. WiFi Connect Programming Part II.mp4
+	(1280, 720) | 04. WiFi Connect Programming Part III.mp4
+13. Displaying WiFi Connection Information on the Web Page
+	(1280, 720) | 01. Displaying WiFi Connection Information Web Page Programming.mp4
+	(1280, 720) | 02. Displaying WiFi Connection Information HTTP Server Programming.mp4
+14. WiFi Disconnect Button
+	(1280, 720) | 01. WiFi Disconnect Button Programming.mp4
+15. Non-Volatile Storage (NVS)
+	(1280, 720) | 01. Non-Volatile Storage (NVS) Implementation Overview.mp4
+	(1280, 720) | 02. Non-Volatile Storage (NVS) Programming Part I.mp4
+	(1280, 720) | 03. Non-Volatile Storage (NVS) Programming Part II.mp4
+16. Button with Interrupt & Semaphore
+	(1280, 720) | 01. WiFi Reset Button Overview.mp4
+	(1280, 720) | 02. WiFi Reset Button Programming.mp4
+17. SNTP Time Synchronization
+	(1280, 720) | 01. SNTP Time Synchronization Overview.mp4
+	(1280, 720) | 02. SNTP Time Synchronization Programming Part I.mp4
+	(1280, 720) | 03. SNTP Time Synchronization Programming Part II.mp4
+	(1280, 720) | 04. SNTP Time Synchronization Programming Part III.mp4
+18. Displaying the ESP32's Access Point SSID on the Web Page
+	(1280, 720) | 01. Displaying AP SSID Programming.mp4
+19. AWS IoT
+	(1280, 720) | 01. AWS IoT Implementation Overview.mp4
+	(1280, 720) | 02. AWS IoT Technical Supplement MQTT, mTLS, AWS Security & Policies, and JSON.mp4
+	(1280, 720) | 03. AWS IoT Configuration & MQTT SubscribePublish Example.mp4
+	(1280, 720) | 04. AWS IoT MQTT PublishSubscribe Example Code Review & Update.mp4
+	(1280, 720) | 05. AWS IoT Using the Updated SDK MQTT Example.mp4

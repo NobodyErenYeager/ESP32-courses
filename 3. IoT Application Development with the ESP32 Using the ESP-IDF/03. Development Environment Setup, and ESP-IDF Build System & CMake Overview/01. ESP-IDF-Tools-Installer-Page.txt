@@ -1,0 +1,1 @@
+https://github.com/espressif/idf-installer#esp-idf-tools-installer-for-windows

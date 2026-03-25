@@ -1,0 +1,1 @@
+https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
